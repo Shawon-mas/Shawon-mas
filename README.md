@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/shawonzu1" target="blank"><img src="https://img.shields.io/twitter/follow/shawonzu1?logo=twitter&style=for-the-badge" alt="shawonzu1" /></a> </p>
 
-- 🔭 I’m currently working on Hybrid Flutter application **Hospital Management**
+- 🔭 I’m currently working on Hybrid Flutter application **Geniematic alternative ChatGpt with lots of features **
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
 - 💬 Ask me about **Android,Flutter**
 
-- 📫 How to reach me **shawon.mas@engineer.com**
+- 📫 How to reach me **shawon.mas38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
